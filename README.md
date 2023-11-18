@@ -1,6 +1,11 @@
 # ScienceProgram
 As part of company CSR project will be inviting some kids to do some science project. This time to expose them to AI and also how to train AI to do simple task. PicoVoice on STM32 seems to fit this purpose.
 
+About PicoVoice
+https://picovoice.ai/
+
+![image](https://github.com/cthun70/ScienceProgram/assets/13252483/cfd1f233-1e28-4704-be62-a6b6c333117a)
+
 Feasibility Study to Port PicoVoice to a low Cost easily available board STM32F411CEU6 Black Pill 
 
 https://stm32-base.org/boards/STM32F411CEU6-WeAct-Black-Pill-V2.0.html
