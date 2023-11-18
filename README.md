@@ -30,6 +30,8 @@ Hardware (PDM Microphone ripped off from a USB Camera module)
 
 ![image](https://github.com/cthun70/ScienceProgram/assets/13252483/e2e06cd9-2b41-403f-b6b3-a6120f4cfea5)
 
+https://youtu.be/fbrkaLW-VzE
+
 Things To do....
 
 1. Setup ST32CubeIDE Development Tool
